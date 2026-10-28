@@ -1,0 +1,14 @@
+.venv310/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+outputs/
+evidence/
+logs/
+models/
+*.pt
+identity_data/*.npz
